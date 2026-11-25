@@ -1,0 +1,75 @@
+/* Main website design */
+body {
+    background: linear-gradient(135deg, #10152f, #252b59, #111827);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Main title */
+h1 {
+    color: #00eaff;
+    font-size: 48px;
+    text-shadow: 0 0 15px #00eaff;
+    margin-bottom: 25px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 19px;
+    line-height: 1.8;
+    max-width: 1000px;
+    margin: 20px auto;
+    color: #eeeeff;
+}
+
+/* Navigation links */
+a {
+    display: block;
+    width: fit-content;
+    margin: 15px auto;
+    padding: 15px 30px;
+    background: #743cff;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+
+/* Hover effect */
+a:hover {
+    background: #00cfff;
+    color: #10152f;
+    transform: scale(1.08);
+    box-shadow: 0 0 20px #00cfff;
+}
+
+
+
+Step 2: Check your index.html
+Make sure the top of your HTML file looks like this:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geometry Dash</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Geometry Dash</h1>
+
+    <!-- Your existing website content goes here -->
+
+</body>
+</html>
+
+
+
+  
