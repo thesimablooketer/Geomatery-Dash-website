@@ -1,33 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="style.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geometry Dash</title>
-</head>
-<body>
+ 
+<div align="center">
 
-<h1>Geometry Dash</h1>
+# 🎮 GEOMETRY DASH
 
-<p>Geometery Dash is a fun and entertaining game where players jump over obastacle where each level is more and more challenging.Also there are many forms you can turn into multiple different forms from color full portals for specific parts of the level. Each level has an ending where it tracks the distance by percentage and everytime you die it shows how much percantage you went. Then based on the distance, you can set a new high score!
+### The Ultimate Geometry Dash Website
 
-  
-    <p>There are many types fo levels like tereo Madness, Back on Track, and Polargeist up to Clubstep, Electroman Adventures, and Deadlocked which are all very popular and each one is harder and harder. Also there are custom Geometery maps that can cause seziers which are very dangerous but are really hard.Most people just memorize the clicks and when you have to do it.</p>
-<br/>
+Explore levels, discover professional players, and learn about Geometry Dash!
 
-<a href="differentlevels.html">View Different Levels</a> 
+[🌐 Visit Website](https://thesimablooketer.github.io/Geomatery-Dash-website/)
 
-<br/> 
+</div>
 
-<a href="proplayers.html">Explore Pro Players</a>
+---
 
-<br/>
+## 🎮 About Geometry Dash
 
-<a href="ranking.html">View Ranking</a>
+Geometry Dash is a rhythm-based platform game where players jump, fly, and navigate challenging obstacles.
 
-<br>
+## ⭐ Features
 
+- 🎯 Featured Geometry Dash levels
+- 🏆 Professional players
+- 📸 Level screenshots
+- 🎵 Music and gameplay
+- 📊 Player information
 
-<a href="exampleofahardlevel.html">View Example of a Hard Level</a>
+## 🌐 Website
+
+Visit the full project:
+
+[Open Geometry Dash Website](https://thesimablooketer.github.io/Geomatery-Dash-website/)
+
+</div>
 
